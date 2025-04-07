@@ -1,4 +1,4 @@
-# ¡Hola Mundo! Soy Victor Ruiz (vruizz22) 👋
+# Hola! Soy Victor Ruiz 👋
 🎓 Estudiante de Ingeniería Civil de Software en la Pontificia Universidad Católica de Chile<br>
 🛠️ Apasionado por el desarrollo Full Stack (Web y Mobile) con Next JS y Expo JS<br>
 💻 Actualmente trabajando en [CPU UC Webpage](https://github.com/cpu-uc/webpage)<br>
