@@ -1,6 +1,6 @@
 # Hola! Soy Victor Ruiz 👋
 🎓 Estudiante de Ingeniería Civil de Software en la Pontificia Universidad Católica de Chile<br>
-🛠️ Apasionado por el desarrollo Full Stack (Web y Mobile) con Next JS y Expo JS<br>
+🛠️ Apasionado por el desarrollo Full Stack (Web y Mobile) con, Next JS, Astro y Expo JS<br>
 💻 Actualmente trabajando en [CPU UC Webpage](https://github.com/cpu-uc/webpage)<br>
 🚀 Desarrollando mi portfolio personal (próximamente)
 
